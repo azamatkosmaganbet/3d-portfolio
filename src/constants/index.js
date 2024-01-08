@@ -113,14 +113,6 @@ const technologies = [
     name: "git",
     icon: git,
   },
-  {
-    name: "figma",
-    icon: figma,
-  },
-  {
-    name: "docker",
-    icon: docker,
-  },
 ];
 
 const experiences = [
@@ -180,7 +172,7 @@ const testimonials = [
   {
     testimonial:
       "Soon...",
-    name: "Name Surname",
+    name: "Name Surname1",
     designation: "CFO",
     company: "Company name",
     image: "https://randomuser.me/api/portraits/women/4.jpg",
@@ -188,7 +180,7 @@ const testimonials = [
   {
     testimonial:
       "Soon...",
-    name: "Name Surname",
+    name: "Name Surname2",
     designation: "COO",
     company: "Company name",
     image: "https://randomuser.me/api/portraits/men/5.jpg",
@@ -196,7 +188,7 @@ const testimonials = [
   {
     testimonial:
       "Soon...",
-    name: "Name Surname",
+    name: "Name Surname3",
     designation: "CTO",
     company: "Company name",
     image: "https://randomuser.me/api/portraits/women/6.jpg",
